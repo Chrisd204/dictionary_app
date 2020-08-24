@@ -5,7 +5,7 @@ A Tkinter app that replicates the google dictionary widget.
 # Video
  Check out the demo youtube video https://www.youtube.com/watch?v=xGvyhEvW_dQ
  
-#Technologies
+ # Technologies
 
 Oxford Api: https://developer.oxforddictionaries.com/
 Pillow:https://pillow.readthedocs.io/en/latest/installation.html
